@@ -1,5 +1,5 @@
 <template>
-  <section>
+  <section class="bg-primary">
     <h1>Pokemon</h1>
 
     <h2>Lise des pokemons :</h2>
